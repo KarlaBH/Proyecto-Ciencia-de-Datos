@@ -6,7 +6,7 @@ Repositorio generado para Proyecto final del Diplomado de Ciencia de Datos - ENE
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0-orange)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0-green)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Descripción
 Este proyecto utiliza el modelo **Random Forest** para predecir las ventas futuras de un negocio en base a sus datos históricos. Además, cuenta con una aplicación interactiva desarrollada en **Streamlit** que permite:
@@ -41,6 +41,10 @@ Este proyecto utiliza el modelo **Random Forest** para predecir las ventas futur
 Ejecuta el siguiente comando para instalar las dependencias:
 ```bash
 pip install -r requirements.txt
+```
 
+---
 
-## 📂 Estructura del Proyecto
+## Documento Overleaf
+Si quieres acceder al archivo detallado del modelo, puedes pulsar aquí 👇👇👇
+https://www.overleaf.com/read/rscqjfkdtmqc#84b932
